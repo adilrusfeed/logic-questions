@@ -10,7 +10,7 @@ void main() {
     }
     stdout.write('\n');
   }
-
+// -------------------------------------------------------
   for (int i = 5; i >= 0; i--) {
     for (int space = 0; space <= 5 - i; space++) {
       stdout.write(' ');
